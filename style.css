@@ -9,3 +9,10 @@
   flex-wrap: wrap;
   gap: 10px;
 }
+
+#box-container div {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  color: white;
+}
